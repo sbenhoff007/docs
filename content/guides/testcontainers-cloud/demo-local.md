@@ -17,3 +17,5 @@ machine to the cloud for more efficient testing.
 - Create and run integration tests using Testcontainers that leverage cloud-based container resources.
 - Monitor and manage containers efficiently, understanding how Testcontainers Cloud automates cleanup and ensures consistent testing environments.
 - Review options for monitoring and troubleshooting in the Testcontainers Cloud Dashboard.
+
+<div id="testcontainers-lp-survey-anchor"></div>

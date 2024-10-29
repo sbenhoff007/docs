@@ -16,3 +16,5 @@ Testcontainers Cloud provides several benefits:
 - **Faster CI/CD Pipelines:** Reduces configuration bottlenecks and speeds up build times by offloading containers to multiple on-demand cloud workers with the Turbo-mode feature.
 
 Testcontainers Cloud streamlines integration testing by offloading container management to the cloud, ensuring consistent environments and faster test execution resulting in reduced resource strain, making it an essential tool for improving the stability of your Testcontainers-based workflows.
+
+<div id="testcontainers-lp-survey-anchor"></div>

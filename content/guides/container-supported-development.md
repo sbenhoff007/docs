@@ -73,4 +73,4 @@ Once you start using containers in your development environment, it becomes much
 
 {{< youtube-embed TCZX15aKSu4 >}}
 
-<div id="lp-survey-anchor"></div>
+<div id="container-supported-dev-lp-survey-anchor"></div>
